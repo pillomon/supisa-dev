@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=lucy-pill&color=yellowgreen&style=for-the-badge&label=PROFILE+VIEWS" alt=Profile Views""/>
+  <img src="https://komarev.com/ghpvc/?username=supisa-dev&color=yellowgreen&style=for-the-badge&label=PROFILE+VIEWS" alt=Profile Views""/>
   <div id='title'>
     <h3>Hi, there.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -43,8 +43,8 @@
 
 ### :fire: My GitHub Stats :
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucy-pill&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=supisa-dev&show_icons=true&theme=dark" />
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucy-pill&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supisa-dev&layout=compact&theme=dark" />
 </div>
