@@ -9,11 +9,6 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=supisa-dev&color=yellowgreen&style=for-the-badge&label=PROFILE+VIEWS" alt=Profile Views""/>
-  <div id='title'>
-    <h3>Hi, there.
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h3>
-  </div>
 </div>
 
 ---
