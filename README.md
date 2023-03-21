@@ -4,7 +4,7 @@
     <a href="https://blog.naver.com/lucy-pill">
       <img src="https://img.shields.io/badge/Naver-brightgreen?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCWv9gUBgYdSJHJU2V_k8Tpw/featured">
+    <a href="https://www.youtube.com/channel/UCJ9l0ZzRLDv8qkedGSKnOKA/featured">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
