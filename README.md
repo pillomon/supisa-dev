@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=supisa-dev&show_icons=true&theme=dark" />
+  </div>
   <div id="badges">
     <a href="https://blog.naver.com/lucy-pill">
       <img src="https://img.shields.io/badge/Naver-brightgreen?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Badge"/>
@@ -38,9 +40,6 @@
 ---
 
 ### :fire: My GitHub Stats :
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=supisa-dev&show_icons=true&theme=dark" />
-</div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supisa-dev&layout=compact&theme=dark" />
 </div>
